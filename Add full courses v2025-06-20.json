@@ -1,0 +1,417 @@
+{
+  "meta_version": "2025‑06‑20",
+  "courses": [
+    /* ──────────── ОФФЛАЙН (7) ──────────── */
+    {
+      "course_id": "RERIX_OFF_9M",
+      "title": "Очный курс «В Рериха»",
+      "format": "offline",
+      "location": "Большая Монетная 16 к. 5, 2 этаж, мастерская 202 (м. Горьковская)",
+      "age_min": 12,
+      "age_max": null,
+      "duration_months": 9,
+      "schedule": [
+        {"day": "Пн", "time": "14:30‑17:30"},
+        {"day": "Ср", "time": "14:30‑17:30"},
+        {"day": "Пт", "time": "14:30‑17:30"},
+        {"day": "Сб", "time": "18:00‑20:45", "topic": "Наброски"}
+      ],
+      "price": {"new_monthly": 15990, "loyal_monthly": 14990},
+      "teachers": [
+        "Виноградова Лада",
+        "Берц Анастасия",
+        "Базиль Всемира",
+        "Шолохнева Юлия",
+        "Корепанова Валерия"
+      ],
+      "usp": [
+        "70 % выпускников поступают в училище Рериха",
+        "3 занятия × 3 ч / нед + субботние наброски"
+      ],
+      "cross_sell": [
+        "INTENSIVE_RERIX_MAY",
+        "INTENSIVE_RERIX_SUMMER",
+        "INTENSIVE_RERIX_AUTUMN",
+        "ONLINE_SKETCHES"
+      ],
+      "example_link": "https://vk.com/lesovartschool?z=video-74965700_456239378%2F53ee3701606ffc0d9f",
+      "materials_pdf": null,
+      "today_special_flag": false
+    },
+    {
+      "course_id": "REPINA_OFF_FULL",
+      "title": "Курс подготовки «В Академию Репина» (пакет «Основной +»)",
+      "format": "offline",
+      "location": "Кадетская линия 5 к. 2, 2 этаж (Вавилов лофт)",
+      "age_min": 16,
+      "age_max": null,
+      "duration_months": 9,
+      "schedule": [
+        {"day": "Пн", "time": "10:00‑14:00"},
+        {"day": "Вт", "time": "10:00‑14:00"},
+        {"day": "Чт", "time": "10:00‑14:00"},
+        {"day": "Пт", "time": "10:00‑14:00"},
+        {"day": "Ср", "time": "18:30‑20:30", "topic": "Продвинутая анатомия"}
+      ],
+      "price": {
+        "pkg_start_plus_monthly": 23669,
+        "pkg_main_plus_monthly": 25669,
+        "drawing_monthly": 11669,
+        "oil_monthly": 11669,
+        "composition_monthly": 9669,
+        "anatomy_monthly": 7696
+      },
+      "teachers": ["Салдаева Ксения", "Банник Евгения", "Делиева Наталья"],
+      "usp": [
+        "Полная программа портрет / фигура / композиция",
+        "4 дня очных занятий + анатомия",
+        "Преподаватели — выпускники Академии Репина"
+      ],
+      "cross_sell": [
+        "INTENSIVE_REPINA",
+        "ONLINE_REPINA_PORTRAIT",
+        "ONLINE_REPINA_COMPOSITION",
+        "OFF_NABROSKI"
+      ],
+      "example_link": "https://lesovschool.ru/vrepina",
+      "materials_pdf": null,
+      "today_special_flag": false
+    },
+    {
+      "course_id": "KIDS_JUNIOR_ART",
+      "title": "Детская группа «Юный живописец»",
+      "format": "offline",
+      "location": "Большая Монетная 16 к. 5, 2 этаж, мастерская 202",
+      "age_min": 6,
+      "age_max": 12,
+      "duration_months": null,
+      "schedule": [
+        {"day": "Пн", "time": "15:00‑17:35"},
+        {"day": "Вт", "time": "15:00‑17:35"},
+        {"day": "Сб", "time": "10:00‑12:35"},
+        {"day": "Сб", "time": "13:00‑15:35"}
+      ],
+      "price": {
+        "new_4_lessons": 6200,
+        "new_8_lessons": 9496,
+        "loyal_4_lessons": 5699,
+        "loyal_8_lessons": 9496,
+        "trial_single": 1200
+      },
+      "teachers": ["Герасимова Мария", "Пунина Ольга"],
+      "usp": [
+        "Практика живописи, рисунка и композиции",
+        "Развитие цветового и пространственного мышления"
+      ],
+      "cross_sell": ["ONLINE_KIDS_DRAWING", "INTENSIVE_RERIX_SUMMER"],
+      "example_link": null,
+      "materials_pdf": "c_Добро_пожаловать_в_школу.pdf",
+      "today_special_flag": false
+    },
+    {
+      "course_id": "DRAWING_OFF_BASIC",
+      "title": "Академический рисунок (очно, базовый)",
+      "format": "offline",
+      "location": "Кадетская линия 5 к. 2, аудитория 2214",
+      "age_min": null,
+      "age_max": null,
+      "duration_months": null,
+      "schedule": [
+        {"day": "Вт", "time": "19:00‑21:00"},
+        {"day": "Чт", "time": "19:00‑21:00"},
+        {"day": "Сб", "time": "11:00‑13:00"}
+      ],
+      "price": {
+        "once_week_monthly": 5196,
+        "twice_week_monthly": 8199,
+        "single": 1200
+      },
+      "teachers": ["Гранкина Анна"],
+      "usp": [
+        "Конструктивный рисунок, натюрморты, драпировки",
+        "Подходит для начинающих и поступающих"
+      ],
+      "cross_sell": [
+        "ONLINE_DRAWING_BASIC",
+        "OFF_NABROSKI",
+        "INTENSIVE_RERIX_MAY"
+      ],
+      "example_link": null,
+      "materials_pdf": null,
+      "today_special_flag": false
+    },
+    {
+      "course_id": "OIL_OFF_FOUNDATION",
+      "title": "Основы масляной живописи (очно)",
+      "format": "offline",
+      "location": "Кадетская линия 5 к. 2, аудитория 2228",
+      "age_min": null,
+      "age_max": null,
+      "duration_months": null,
+      "schedule": [{"day": "Вс", "time": "18:00‑21:00"}],
+      "price": {"monthly": 7834},
+      "teachers": ["Делиева Наталья"],
+      "usp": [
+        "Академическая техника масла",
+        "От натюрморта до этюда пленэра"
+      ],
+      "cross_sell": ["ONLINE_OIL_VIDEO", "INTENSIVE_REPINA"],
+      "example_link": null,
+      "materials_pdf": null,
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ANATOMY_ADV_OFF",
+      "title": "Продвинутая анатомия художника",
+      "format": "offline",
+      "location": "Кадетская линия 5 к. 2, аудитория 2214",
+      "age_min": null,
+      "age_max": null,
+      "duration_months": null,
+      "schedule": [{"day": "Ср", "time": "18:30‑20:30"}],
+      "price": {"monthly": 7696},
+      "teachers": ["Салдаева Ксения"],
+      "usp": [
+        "Полный разбор головы и фигуры",
+        "Подготовка к сложным академическим работам"
+      ],
+      "cross_sell": ["ONLINE_PLASTIC_ANATOMY"],
+      "example_link": null,
+      "materials_pdf": null,
+      "today_special_flag": false
+    },
+    {
+      "course_id": "OFF_NABROSKI",
+      "title": "Наброски с натуры (субботние)",
+      "format": "offline",
+      "location": "Кадетская линия 5 к. 2, аудитория 2228",
+      "age_min": 16,
+      "age_max": null,
+      "duration_months": null,
+      "schedule": [{"day": "Сб", "time": "18:00‑20:45"}],
+      "price": {"single": 350, "monthly": 1200},
+      "teachers": ["Женская/мужская модель (чередуется)"],
+      "usp": ["Быстрые наброски 3‑5 мин для тренировки глазомер‑рука"],
+      "cross_sell": ["ONLINE_SKETCHES"],
+      "example_link": null,
+      "materials_pdf": null,
+      "today_special_flag": false
+    },
+
+    /* ──────────── ИНТЕНСИВЫ (3) ──────────── */
+    {
+      "course_id": "INTENSIVE_RERIX_MAY",
+      "title": "Интенсив «В Рериха» (май)",
+      "format": "offline_intensive",
+      "location": "Большая Монетная 16 к. 5",
+      "start": "2025‑05‑05",
+      "end": "2025‑05‑11",
+      "duration_days": 7,
+      "price": {"one_time": 11900},
+      "usp": ["Краткосрочный рывок перед экзаменами"],
+      "cross_sell": ["RERIX_OFF_9M", "ONLINE_SKETCHES"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "INTENSIVE_RERIX_SUMMER",
+      "title": "Интенсив «В Рериха» (лето)",
+      "format": "offline_intensive",
+      "location": "Большая Монетная 16 к. 5",
+      "start": "2025‑07‑01",
+      "end": "2025‑07‑07",
+      "duration_days": 7,
+      "price": {"one_time": 13900},
+      "usp": ["Летняя смена с упором на живопись"],
+      "cross_sell": ["RERIX_OFF_9M", "ONLINE_SKETCHES"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "INTENSIVE_RERIX_AUTUMN",
+      "title": "Интенсив «В Рериха» (осень)",
+      "format": "offline_intensive",
+      "location": "Большая Монетная 16 к. 5",
+      "start": "2025‑10‑20",
+      "end": "2025‑10‑26",
+      "duration_days": 7,
+      "price": {"one_time": 11900},
+      "usp": ["Финальный чек‑ап перед вступительными"],
+      "cross_sell": ["RERIX_OFF_9M", "ONLINE_SKETCHES"],
+      "today_special_flag": false
+    },
+
+    /* ──────────── ONLINE (15) ──────────── */
+    {
+      "course_id": "ONLINE_BIG_PREP",
+      "title": "Большой онлайн‑курс подготовки к поступлению",
+      "format": "online",
+      "duration_months": 4.5,
+      "age_min": 13,
+      "age_max": 18,
+      "price": {
+        "with_feedback": 47699,
+        "with_feedback_bank": 51699,
+        "no_feedback": 25699,
+        "no_feedback_bank": 31699
+      },
+      "usp": [
+        "Полный цикл: рисунок, живопись, композиция",
+        "3 Zoom‑разбора в неделю"
+      ],
+      "cross_sell": ["INTENSIVE_RERIX_SUMMER", "ONLINE_SKETCHES"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_DRAWING_BASIC",
+      "title": "Базовый курс «Академический рисунок» (онлайн)",
+      "format": "online",
+      "duration_months": 3,
+      "price": {"one_time": null},
+      "usp": [
+        "11 уроков / 7 модулей — от штриха до натюрморта",
+        "23 итоговые работы"
+      ],
+      "cross_sell": ["ONLINE_AKVAREL_BASIC"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_AKVAREL_BASIC",
+      "title": "Базовый курс «Акварельная живопись»",
+      "format": "online",
+      "duration_months": 3,
+      "price": {"one_time": null},
+      "usp": [
+        "25 работ, все техники: по сырому, лессировки, а‑ля‑прима"
+      ],
+      "cross_sell": ["ONLINE_DECOR_COMPOSITION"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_DECOR_COMPOSITION",
+      "title": "Базовый курс «Декоративная композиция»",
+      "format": "online",
+      "price": {"one_time": 7299},
+      "usp": ["70 практических работ", "Цвет, ритм, пятно"],
+      "cross_sell": ["ONLINE_STANK_COMPOSITION"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_STANK_COMPOSITION",
+      "title": "Базовый курс «Станковая композиция»",
+      "format": "online",
+      "price": {"one_time": 7299},
+      "usp": [
+        "14 видео: эскиз → формат",
+        "Анатомия персонажа в композиции"
+      ],
+      "cross_sell": ["ONLINE_DECOR_COMPOSITION"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_NEWYEAR_WATERCOLOR",
+      "title": "Новогодняя сказка: акварель за 4 дня",
+      "format": "online_micro",
+      "duration_days": 4,
+      "price": {"one_time": 2990},
+      "usp": ["3 зимних сюжета + бонус‑кисти"],
+      "cross_sell": ["ONLINE_AKVAREL_BASIC"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_COMPOSITION_SCENE",
+      "title": "Видеоурок «Уличная сценка» (станковая композиция)",
+      "format": "online_micro",
+      "price": {"one_time": 2469},
+      "usp": ["5 видео: от тональных эскизов до холста"],
+      "cross_sell": ["ONLINE_STANK_COMPOSITION"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_DESIGN_LETTERS",
+      "title": "Микро‑курс «Стилизация букв»",
+      "format": "online_micro",
+      "price": {"one_time": 990},
+      "usp": ["Создание авторского алфавита"],
+      "cross_sell": ["ONLINE_DECOR_COMPOSITION"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_CONSULTATION",
+      "title": "Онлайн‑консультация с преподавателем",
+      "format": "service",
+      "price": {"one_time": 750},
+      "usp": ["Разбор портфолио + индивидуальный план"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_PLASTIC_ANATOMY",
+      "title": "Трипваер «Пластическая анатомия»",
+      "format": "online_micro",
+      "price": {"one_time": 996},
+      "usp": ["Пропорции, анатомические точки, поэтапный разбор"],
+      "cross_sell": ["ANATOMY_ADV_OFF"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_SPRINTS",
+      "title": "СПРИНТы: 10 вебинаров для поступающих",
+      "format": "online_micro",
+      "duration_hours": 20,
+      "price": {"one_time": 1900},
+      "usp": ["20 часов эфиров по рисунку, живописи, композиции"],
+      "cross_sell": ["ONLINE_BIG_PREP"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_SKETCHES",
+      "title": "Мини‑курс «Наброски за 3 минуты»",
+      "format": "online_micro",
+      "price": {"one_time": 1996},
+      "usp": ["4 видео, навык быстрой компоновки"],
+      "cross_sell": [],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_BELSKAYA_BRAIN180",
+      "title": "«Рисуем легко и просто» (А. Бельская)",
+      "format": "online",
+      "duration_weeks": 12,
+      "price": {"with_feedback": 25699, "no_feedback": 12699},
+      "usp": ["1‑3 завершённые работы + 20 упражнений"],
+      "example_link": "https://docs.google.com/document/d/1i0OdbPpabGRh_C5MyLlOmF6D7RPApox1/",
+      "cross_sell": ["ONLINE_DRAWING_BASIC"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_4SEASONS",
+      "title": "Акварель «4 сезона» (Алина Лесова)",
+      "format": "online",
+      "duration_lessons": 28,
+      "price": {
+        "base": 8669,
+        "coach": 16669,
+        "vip": 99590
+      },
+      "usp": ["4 больших пейзажа + 12 упражнений"],
+      "cross_sell": ["ONLINE_AKVAREL_BASIC"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_REPINA_PORTRAIT",
+      "title": "Репина онлайн: Портрет",
+      "format": "online",
+      "price": {"one_time": null},
+      "usp": [],
+      "cross_sell": ["INTENSIVE_REPINA"],
+      "today_special_flag": false
+    },
+    {
+      "course_id": "ONLINE_REPINA_COMPOSITION",
+      "title": "Репина онлайн: Композиция",
+      "format": "online",
+      "price": {"one_time": null},
+      "usp": [],
+      "cross_sell": ["INTENSIVE_REPINA"],
+      "today_special_flag": false
+    }
+  ]
+}
